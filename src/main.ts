@@ -46,6 +46,8 @@ topMenuEl.className = "flex-around";
 
 // Task 3.1
 // Iterate over the entire menuLinksarray and for each "link" object:
+
+// Worked on with Adam Ross
 for (let menuLink of menuLinks){
   // Create an <a>element.
   let newElement:HTMLElement = document.createElement("a");
